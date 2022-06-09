@@ -1,5 +1,5 @@
 section .data
-        text1 db "Enter an integer: "
+        text1 db "Please enter an integer: "
         text2 db "You have entered "
 
 section .bss
